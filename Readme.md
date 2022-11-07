@@ -1,4 +1,4 @@
-# Studienleistung I: Bouncer | 3. Bouncer gräbt nach Kristallen
+# Studienleistung I: Bouncer | 1. Bouncer malt eine Spirale
 
 ## Allgemeine Hinweise zur Studienleistung
 In dieser Studienleistung werden Sie drei Programmieraufgaben lösen.
@@ -7,7 +7,7 @@ Um die Aufgaben zu bearbeiten, müssen Sie zuerst das jeweilige Projekt in Intel
 Diese Projekte sind:
 * ```Studienleistung-I-Bouncer-1-BouncerMaltEineSpirale```
 * ```Studienleistung-I-Bouncer-2-BouncerBautEineBrücke```
-* ```Studienleistung-I-Bouncer-3-BouncerGraebtNachKristallen```
+* ```Studienleistung-I-Bouncer-3-BouncerLeertEineHöhle``
 
 Für die Teilaufgabe, die in diesem Dokument beschrieben ist, öffnen Sie bitte das Projekt: ```Studienleistung-I-Bouncer-1-BouncerMaltEineSpirale```
 
