@@ -49,4 +49,4 @@ Lösen Sie folgende Teilaufgaben, damit Bouncer die Spirale in die Welt malt:
 4. Sobald Bouncer aus Platzgründen die Spirale nicht mehr weitermalen kann, bleibt Bouncer stehen und schaut nach Norden.
 
 * **Hinweise**
-* Benutzen Sie die Konstanten `WORLD_WIDTH` und `WORLD_HEIGHT` um die Mitte der Welt zu berechnen
+* Benutzen Sie die Konstanten `WIDTH` und `HEIGHT` um die Mitte der Welt zu berechnen
